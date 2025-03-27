@@ -20,4 +20,6 @@ phases:
 artifacts:
   files:
     - target/cicd-devops-pipeline.war
+    - appspec.yml
+    - scripts/**/*
   discard-paths: no
